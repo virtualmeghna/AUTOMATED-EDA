@@ -25,7 +25,7 @@ st.markdown("**Hereby, I introduce you to AutoML, which stands for 'Automated Ma
 
 st.markdown('''This App is created in Streamlit using the **Numpy**, **Pandas** & **pandas-profiling** library.
 
-**Credit:** App built in `Python` + `Streamlit` by :red[**Akash Sharma** ]''')
+**Credit:** App built in `Python` + `Streamlit` by :red[**Meghna Sharma** ]''')
         
 st.write(":arrow_forward: Here's how it works: ")
 st.write('1. Upload your CSV file in the sidebar. (Or just to see how it works, you can use the given example Dataset)')
